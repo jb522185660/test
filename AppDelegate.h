@@ -1,4 +1,5 @@
-//edit by Jack 的第一次修改
+//edit by Jack
+//first modify
 
 #import <UIKit/UIKit.h>
 
