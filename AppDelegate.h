@@ -1,4 +1,4 @@
-//edit by Jack
+//edit by Jack Li
 
 #import <UIKit/UIKit.h>
 
