@@ -1,10 +1,4 @@
-//
-//  AppDelegate.h
-//  ShareButton
-//
-//  Created by lbencs on 10/22/14.
-//  Copyright (c) 2014 lbencs. All rights reserved.
-//
+//edit by Jack
 
 #import <UIKit/UIKit.h>
 
