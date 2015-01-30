@@ -8,4 +8,4 @@
 
 @property (strong, nonatomic) UIWindow *window;
 
-
+解决issue-101
